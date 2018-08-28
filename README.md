@@ -1,4 +1,4 @@
-# Controlling_Servo_With_Labview_-_Joystick
+# Controlling_Servo_With_Labview_and_Joystick
 
 Software List:
 
